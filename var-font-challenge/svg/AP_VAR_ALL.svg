@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 4000">
+  <defs>
+    <style>
+      .cls-text {
+        font-size: 114.59px;
+        font-family: 'AP Var', sans-serif;
+      }
+
+      .cls-1  { font-variation-settings: 'wght' 700; }  /* Bold */
+      .cls-2  { font-variation-settings: 'wdth' 50; }  /* Condensed */
+      .cls-3  { font-variation-settings: 'wdth' 50, 'wght' 700; }  /* CondensedBold */
+      .cls-4  { font-variation-settings: 'wdth' 50, 'wght' 800; }  /* CondensedExtraBold */
+      .cls-5  { font-variation-settings: 'wdth' 50, 'wght' 300; }  /* CondensedLight */
+      .cls-6  { font-variation-settings: 'wdth' 50, 'wght' 500; }  /* CondensedMedium */
+      .cls-7  { font-variation-settings: 'wdth' 50, 'wght' 200; }  /* CondensedThin */
+      .cls-8  { font-variation-settings: 'wght' 800; }  /* ExtraBold */
+      .cls-9  { font-variation-settings: 'wdth' 35; }  /* ExtraCondensed */
+      .cls-10 { font-variation-settings: 'wdth' 35, 'wght' 700; }  /* ExtraCondensedBold */
+      .cls-11 { font-variation-settings: 'wdth' 35, 'wght' 890; }  /* ExtraCondensedExtraBold */
+      .cls-12 { font-variation-settings: 'wdth' 35, 'wght' 300; }  /* ExtraCondensedLight */
+      .cls-13 { font-variation-settings: 'wdth' 35, 'wght' 500; }  /* ExtraCondensedMedium */
+      .cls-14 { font-variation-settings: 'wdth' 35, 'wght' 178; }  /* ExtraCondensedThin */
+      .cls-15 { font-variation-settings: 'wght' 300; }  /* Light */
+      .cls-16 { font-variation-settings: 'wght' 500; }  /* Medium */
+      .cls-17 { font-variation-settings: 'wght' 400; }  /* Regular */
+      .cls-18 { font-variation-settings: 'wdth' 75; }  /* SemiCondensed */
+      .cls-19 { font-variation-settings: 'wdth' 75, 'wght' 700; }  /* SemiCondensedBold */
+      .cls-20 { font-variation-settings: 'wdth' 75, 'wght' 800; }  /* SemiCondensedExtraBold */
+      .cls-21 { font-variation-settings: 'wdth' 75, 'wght' 300; }  /* SemiCondensedLight */
+      .cls-22 { font-variation-settings: 'wdth' 75, 'wght' 500; }  /* SemiCondensedMedium */
+      .cls-23 { font-variation-settings: 'wdth' 75, 'wght' 172; }  /* SemiCondensedThin */
+      .cls-24 { font-variation-settings: 'wght' 200; }  /* Thin */
+    </style>
+  </defs>
+
+
+  <g id="APVar-Bold">
+    <text class="cls-text cls-1" transform="translate(50 416.26)">APVar-Bold</text>
+  </g>
+  <g id="APVar-Condensed">
+    <text class="cls-text cls-2" transform="translate(50 551.26)">APVar-Condensed</text>
+  </g>
+  <g id="APVar-CondensedBold">
+    <text class="cls-text cls-3" transform="translate(50 686.26)">APVar-CondensedBold</text>
+  </g>
+  <g id="APVar-CondensedExtraBold">
+    <text class="cls-text cls-4" transform="translate(50 821.26)">APVar-CondensedExtraBold</text>
+  </g>
+  <g id="APVar-CondensedLight">
+    <text class="cls-text cls-5" transform="translate(50 956.26)">APVar-CondensedLight</text>
+  </g>
+  <g id="APVar-CondensedMedium">
+    <text class="cls-text cls-6" transform="translate(50 1091.26)">APVar-CondensedMedium</text>
+  </g>
+  <g id="APVar-CondensedThin">
+    <text class="cls-text cls-7" transform="translate(50 1226.26)">APVar-CondensedThin</text>
+  </g>
+  <g id="APVar-ExtraBold">
+    <text class="cls-text cls-8" transform="translate(50 1361.26)">APVar-ExtraBold</text>
+  </g>
+  <g id="APVar-ExtraCondensed">
+    <text class="cls-text cls-9" transform="translate(50 1496.26)">APVar-ExtraCondensed</text>
+  </g>
+  <g id="APVar-ExtraCondensedBold">
+    <text class="cls-text cls-10" transform="translate(50 1631.26)">APVar-ExtraCondensedBold</text>
+  </g>
+  <g id="APVar-ExtraCondensedExtraBold">
+    <text class="cls-text cls-11" transform="translate(50 1766.26)">
+      APVar-ExtraCondensedExtraBold</text>
+  </g>
+  <g id="APVar-ExtraCondensedLight">
+    <text class="cls-text cls-12" transform="translate(50 1901.26)">APVar-ExtraCondensedLight</text>
+  </g>
+  <g id="APVar-ExtraCondensedMedium">
+    <text class="cls-text cls-13" transform="translate(50 2036.26)">APVar-ExtraCondensedMedium</text>
+  </g>
+  <g id="APVar-ExtraCondensedThin">
+    <text class="cls-text cls-14" transform="translate(50 2171.26)">APVar-ExtraCondensedThin</text>
+  </g>
+  <g id="APVar-Light">
+    <text class="cls-text cls-15" transform="translate(50 2306.26)">APVar-Light</text>
+  </g>
+  <g id="APVar-Medium">
+    <text class="cls-text cls-16" transform="translate(50 2441.26)">APVar-Medium</text>
+  </g>
+  <g id="APVar-Regular">
+    <text class="cls-text cls-17" transform="translate(50 2576.26)">APVar-Regular</text>
+  </g>
+  <g id="APVar-SemiCondensed">
+    <text class="cls-text cls-18" transform="translate(50 2711.26)">APVar-SemiCondensed</text>
+  </g>
+  <g id="APVar-SemiCondensedBold">
+    <text class="cls-text cls-19" transform="translate(50 2846.26)">APVar-SemiCondensedBold</text>
+  </g>
+  <g id="APVar-SemiCondensedExtraBold">
+    <text class="cls-text cls-20" transform="translate(50 2981.26)">APVar-SemiCondensedExtraBold</text>
+  </g>
+  <g id="APVar-SemiCondensedLight">
+    <text class="cls-text cls-21" transform="translate(50 3116.26)">APVar-SemiCondensedLight</text>
+  </g>
+  <g id="APVar-SemiCondensedMedium">
+    <text class="cls-text cls-22" transform="translate(50 3251.26)">APVar-SemiCondensedMedium</text>
+  </g>
+  <g id="APVar-SemiCondensedThin">
+    <text class="cls-text cls-23" transform="translate(50 3386.26)">APVar-SemiCondensedThin</text>
+  </g>
+  <g id="APVar-Thin">
+    <text class="cls-text cls-24" transform="translate(50 3521.26)">APVar-Thin</text>
+  </g>
+
+
+</svg>

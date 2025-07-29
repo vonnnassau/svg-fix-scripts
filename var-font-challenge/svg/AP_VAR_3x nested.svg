@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+
+      .cls-4 {
+        font-family: APVar-ExtraCondensedExtraBold, 'AP Var';
+        font-variation-settings: 'wdth' 35, 'wght' 890;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-size: 114.59px;
+      }
+
+
+
+      .cls-5 {
+        font-family: APVar-SemiCondensedThin, 'AP Var';
+        font-variation-settings: 'wdth' 75, 'wght' 172;
+      }
+
+      .cls-5, .cls-6 {
+        font-weight: 200;
+      }
+
+      .cls-6 {
+        font-family: APVar-ExtraCondensedThin, 'AP Var';
+        font-variation-settings: 'wdth' 35, 'wght' 178;
+      }
+    </style>
+  </defs>
+  <g id="IdToTestNesting">
+    <g id="IdToTestNesting">
+      <g id="APVar-ExtraCondensedExtraBold">
+        <text class="cls-4" transform="translate(304.98 416.26)">APVar-ExtraCondensedExtraBold<tspan x="0" y="0"></tspan></text>
+      </g>
+  </g>
+</g>
+
+
+  <g id="APVar-SemiCondensedThin">
+  <text class="cls-5" transform="translate(304.98 556.26)">APVar-SemiCondensedThin<tspan x="0" y="0"></tspan></text>
+</g>
+  <g id="APVar-ExtraCondensedThin">
+  <text class="cls-6" transform="translate(304.98 696.26)">APVar-ExtraCondensedThin<tspan x="0" y="0"></tspan></text>
+</g>
+</svg>
