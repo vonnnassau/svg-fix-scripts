@@ -17,6 +17,7 @@ It works by applying available PostScript fonts to text elements, based on group
 
 ## How to Use
 
+0. [Download AP_VAR_ALL.svg]
 1.  **Open Adobe Illustrator**
 2.  **Run the script**  
     Copy fixSvgFonts.jsx to /Applications/Adobe Illustrator <version>/Presets.localized/en_US/Scripts"
