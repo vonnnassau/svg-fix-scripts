@@ -15,7 +15,7 @@ Adding `<g id="<PostScriptName>">` in the SVG could be done by MC. Or automatica
 
 In our example we run the script over the opened SVG, we do not interpret the svg, we modify the Illustrator document. 
 
-![Preview animation](./assets/output.gif)
+![Preview animation](./var-font-challenge/assets/output.gif)
 
 
 ## What It Does
@@ -41,7 +41,7 @@ In our example we run the script over the opened SVG, we do not interpret the sv
 
 
 ## To do's
-    - Test with actual svg map (with added <g id>)
+- Test with actual svg map (with added <g id>)
 
 
 
