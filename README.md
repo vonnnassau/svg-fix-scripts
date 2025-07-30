@@ -42,7 +42,7 @@ In our example we run the script over the opened SVG, we do not interpret the sv
 
 
 ## To do's
-- Test with actual svg map (with added <g id>)
+- Test with actual svg map (with added `<g id="<PostScriptName>">`)
 
 
 
