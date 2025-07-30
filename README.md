@@ -15,7 +15,7 @@ Adding `<g id="<PostScriptName>">` in the SVG could be done by MC. Or automatica
 
 In our example we run the script over the opened SVG, we do not interpret the svg, we modify the Illustrator document. 
 
-![Preview animation](assets/output.gif)
+![Preview animation](./assets/output.gif)
 
 
 ## What It Does
